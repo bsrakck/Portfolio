@@ -1031,6 +1031,7 @@ border-radius: 100%;
   }
   nav {
     background-color:#2b2d2f;
+    width: 95%;
   };
   /* .anaparca{
     /* border: 2px solid yellow;
@@ -1066,7 +1067,7 @@ border-radius: 100%;
 
   }
   .deneyim h2{
-    font-size: 3.25rem;
+    font-size: 1.25rem;
     width: 100%;
   }
   .egt p{
@@ -1074,12 +1075,12 @@ border-radius: 100%;
     margin-left: 1rem; 
   }
   .egt h2{
-    font-size: 3.25rem;
+    font-size: 1.25rem;
     width: 100%;
   }
   .Rfrns p{
     font-size: 1.25rem;
-    margin-left: 1rem;
+    margin-left: 3rem;
   }
   .Rfrns h2{
     font-size: 3.25rem;
