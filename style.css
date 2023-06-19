@@ -1052,11 +1052,19 @@ border-radius: 100%;
     width: 95%;
     
   }
+  .About,.isdeneyimleri,.referanslar,.iletisim{
+    height: 1000px;
+  }
+  .egitimSertifika{
+    height: 1200px;
+  }
   .aboutMe p{
     font-size: 1.25rem;
-    margin-left: 1rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
 
   }
+  
   .aboutMe h2{
     font-size: 3.25rem;
     width: 100%;
@@ -1064,7 +1072,7 @@ border-radius: 100%;
   .deneyim p{
     font-size: 1.25rem;
     margin-left: 1rem;
-
+  
   }
   .deneyim h2{
     font-size: 1.25rem;
